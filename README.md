@@ -1,2 +1,1 @@
-The "final_code.ino" is the most important file in this project where you find all answers for tasks asked in the specifications, as for line follower code you find the basic skeleton for this project (just a line follower program without solving any map's tasks) .
-PS: you need an arduino IDE and a solidworks software to see what this files contain.
+In this project you will find all my project steps. First of all i designed the hardware part (it' a 3D virtual mechanical design on SOLIDWORKS), then i developed my software program on 2 parts: 1-line follower code without mechanical solutions 2-developing the first code to become response to all tasks asked in the specifications
